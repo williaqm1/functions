@@ -26,6 +26,8 @@ ___________________________________
 <li> Lastly avoid ANY ITEM THAT WILL FAIL THE "White shirt test": avoid any food that would leave a visible stain on a white piece of clothing for the first 24 hours after whitening.</li> 
 </ol>
 
+![download](https://user-images.githubusercontent.com/70115453/92335276-6119ea80-f05b-11ea-80d5-f407c62f3974.jpg)
+
 # Looking to keep that great smile?
 ___________________________________
 
@@ -47,8 +49,6 @@ and it works wonders and really gets the job done alright. I can add the link be
 
 https://www.walmart.com/ip/Oral-B-3D-White-Electric-Toothbrush-Battery-Power-Various-Colors/10321283
 </ol>
-
-![download](https://user-images.githubusercontent.com/70115453/92335276-6119ea80-f05b-11ea-80d5-f407c62f3974.jpg)
 
 
 ### DID YOU SAY LOCALS?
