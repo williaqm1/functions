@@ -48,9 +48,8 @@ and it works wonders and really gets the job done alright. I can add the link be
 https://www.walmart.com/ip/Oral-B-3D-White-Electric-Toothbrush-Battery-Power-Various-Colors/10321283
 </ol>
 
-You can use the [editor on GitHub](https://github.com/williaqm1/functions/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+![download](https://user-images.githubusercontent.com/70115453/92335276-6119ea80-f05b-11ea-80d5-f407c62f3974.jpg)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### DID YOU SAY LOCALS?
 ```markdown
